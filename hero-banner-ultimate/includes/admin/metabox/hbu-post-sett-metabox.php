@@ -140,7 +140,7 @@ if($banner_type == 'bgcolor' || $banner_type == '') {
 								<option ><?php esc_html_e('Plain Color', 'hero-banner-ultimate'); ?></option>
 							</select><br/>
 							<!-- <span class="description"><?php // esc_html_e('Select background color type.', 'hero-banner-ultimate'); ?></span><?php // echo sprintf( __( ' Upgrade to <a href="%s" target="_blank">Premium Version</a> to get this option.', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?> -->
-							<span class="description"><?php esc_html_e('Select background color type.', 'hero-banner-ultimate'); ?></span><?php echo sprintf( __( 'Try This <a href="%s" target="_blank">PRO Features in Essential Bundle Free For 5 Days.</a>', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?>
+							<span class="description"><?php esc_html_e('Select background color type.', 'hero-banner-ultimate'); ?></span> <strong><?php echo sprintf( __( 'Try This PRO Features with <a href="%s" target="_blank">Early Back Friday Deals</a> on lifetime plan. FLAT $100 USD OFF.', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?></strong>
 						</td>
 					</tr>
 
@@ -154,7 +154,7 @@ if($banner_type == 'bgcolor' || $banner_type == '') {
 								<option ><?php esc_html_e('Left to Right', 'hero-banner-ultimate'); ?></option>
 							</select><br />
 							<!-- <span class="description"><?php //esc_html_e('Gradient Color Position. This option works in background color option Gradient Color.', 'hero-banner-ultimate'); ?></span><?php // echo sprintf( __( ' Upgrade to <a href="%s" target="_blank">Premium Version</a> to get this option.', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?> -->
-							<span class="description"><?php esc_html_e('Gradient Color Position. This option works in background color option Gradient Color.', 'hero-banner-ultimate'); ?></span><?php echo sprintf( __( 'Try This <a href="%s" target="_blank">PRO Features in Essential Bundle Free For 5 Days.</a>', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?>
+							<span class="description"><?php esc_html_e('Gradient Color Position. This option works in background color option Gradient Color.', 'hero-banner-ultimate'); ?></span> <strong><?php echo sprintf( __( 'Try This PRO Features with <a href="%s" target="_blank">Early Back Friday Deals</a> on lifetime plan. FLAT $100 USD OFF.', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?></strong>
 						</td>
 					</tr>
 				</table>
@@ -255,7 +255,7 @@ if($banner_type == 'bgcolor' || $banner_type == '') {
 							<input type="button" name="banner_default_img" class="button-secondary" value="<?php esc_html_e( 'Upload Poster', 'hero-banner-ultimate'); ?>" disabled="" />
 							<input type="button" class="button button-secondary" name="popu_default_poster_clear" value="<?php esc_html_e( 'Clear', 'hero-banner-ultimate'); ?>" disabled="" /><br />
 							<!-- <span class="description"><?php // esc_html_e('Upload Video Poster image.', 'hero-banner-ultimate'); ?></span><?php // echo sprintf( __( ' Upgrade to <a href="%s" target="_blank">Premium Version</a> to get this option.', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?> -->
-							<span class="description"><?php esc_html_e('Upload Video Poster image.', 'hero-banner-ultimate'); ?></span><?php echo sprintf( __( 'Try This <a href="%s" target="_blank">PRO Features in Essential Bundle Free For 5 Days.</a>', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?>
+							<span class="description"><?php esc_html_e('Upload Video Poster image.', 'hero-banner-ultimate'); ?></span> <strong><?php echo sprintf( __( 'Try This PRO Features with <a href="%s" target="_blank">Early Back Friday Deals</a> on lifetime plan. FLAT $100 USD OFF.', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?></strong>
 						</td>
 					</tr>
 
@@ -294,7 +294,7 @@ if($banner_type == 'bgcolor' || $banner_type == '') {
 			<td>
 				<input type="checkbox" name="<?php echo esc_attr($prefix);?>banner_title_upper" value="Title Uppercase" disabled="" /><br />
 				<!-- <span class="description"><?php //esc_html_e('Check to Display Title Text on UPPERCASE', 'hero-banner-ultimate'); ?></span><?php //echo sprintf( __( ' Upgrade to <a href="%s" target="_blank">Premium Version</a> to get this option.', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?> -->
-				<span class="description"><?php esc_html_e('Check to Display Title Text on UPPERCASE.', 'hero-banner-ultimate'); ?></span><?php echo sprintf( __( 'Try This <a href="%s" target="_blank">PRO Features in Essential Bundle Free For 5 Days.</a>', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?>
+				<span class="description"><?php esc_html_e('Check to Display Title Text on UPPERCASE.', 'hero-banner-ultimate'); ?></span> <strong><?php echo sprintf( __( 'Try This PRO Features with <a href="%s" target="_blank">Early Back Friday Deals</a> on lifetime plan. FLAT $100 USD OFF.', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?></strong>
 			</td>
 		</tr>
 		<!-- SubTitle Size -->
@@ -315,7 +315,7 @@ if($banner_type == 'bgcolor' || $banner_type == '') {
 			<td>
 				<input type="checkbox" name="<?php echo esc_attr($prefix);?>banner_title_upper" value="Title Uppercase" disabled="" /><br />
 				<!-- <span class="description"><?php // esc_html_e('Check to Display Subtitle Text on UPPERCASE', 'hero-banner-ultimate'); ?></span><?php // echo sprintf( __( ' Upgrade to <a href="%s" target="_blank">Premium Version</a> to get this option.', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?> -->
-				<span class="description"><?php esc_html_e('Check to Display Subtitle Text on UPPERCASE.', 'hero-banner-ultimate'); ?></span><?php echo sprintf( __( 'Try This <a href="%s" target="_blank">PRO Features in Essential Bundle Free For 5 Days.</a>', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?>
+				<span class="description"><?php esc_html_e('Check to Display Subtitle Text on UPPERCASE.', 'hero-banner-ultimate'); ?></span> <strong><?php echo sprintf( __( 'Try This PRO Features with <a href="%s" target="_blank">Early Back Friday Deals</a> on lifetime plan. FLAT $100 USD OFF.', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?></strong>
 			</td>
 		</tr>
 
@@ -481,7 +481,7 @@ if($banner_type == 'bgcolor' || $banner_type == '') {
 			<td>
 				<input type="number" name="<?php echo esc_attr($prefix);?>banner_mobile_title_fontsize" class="regular-text" placeholder="<?php esc_html_e('30', 'hero-banner-ultimate'); ?>" disabled="" /> px <br/>
 				<!-- <span class="description"><?php // esc_html_e('Enter title font size in PX', 'hero-banner-ultimate'); ?></span><?php // echo sprintf( __( ' Upgrade to <a href="%s" target="_blank">Premium Version</a> to get this option.', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?> -->
-				<span class="description"><?php esc_html_e('Enter title font size in PX.', 'hero-banner-ultimate'); ?></span><?php echo sprintf( __( 'Try This <a href="%s" target="_blank">PRO Features in Essential Bundle Free For 5 Days.</a>', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?>
+				<span class="description"><?php esc_html_e('Enter title font size in PX.', 'hero-banner-ultimate'); ?></span> <strong><?php echo sprintf( __( 'Try This PRO Features with <a href="%s" target="_blank">Early Back Friday Deals</a> on lifetime plan. FLAT $100 USD OFF.', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?></strong>
 			</td>
 		</tr>
 
@@ -493,7 +493,7 @@ if($banner_type == 'bgcolor' || $banner_type == '') {
 			<td>
 				<input type="number" name="<?php echo esc_attr($prefix);?>banner_mobile_subtitle_fontsize" class="regular-text" placeholder="<?php esc_html_e('18', 'hero-banner-ultimate'); ?>" disabled="" /> px <br/>
 				<!-- <span class="description"><?php // esc_html_e('Enter sub title font size in PX', 'hero-banner-ultimate'); ?></span><?php // echo sprintf( __( ' Upgrade to <a href="%s" target="_blank">Premium Version</a> to get this option.', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?> -->
-				<span class="description"><?php esc_html_e('Enter sub title font size in PX.', 'hero-banner-ultimate'); ?></span><?php echo sprintf( __( 'Try This <a href="%s" target="_blank">PRO Features in Essential Bundle Free For 5 Days.</a>', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?>
+				<span class="description"><?php esc_html_e('Enter sub title font size in PX.', 'hero-banner-ultimate'); ?></span> <strong><?php echo sprintf( __( 'Try This PRO Features with <a href="%s" target="_blank">Early Back Friday Deals</a> on lifetime plan. FLAT $100 USD OFF.', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?></strong>
 			</td>
 		</tr>
 
@@ -507,7 +507,7 @@ if($banner_type == 'bgcolor' || $banner_type == '') {
 				</select>
 				<br/>
 				<!-- <span class="description"><?php //esc_html_e('Select bacground image size for mobile.', 'hero-banner-ultimate'); ?></span><?php // echo sprintf( __( ' Upgrade to <a href="%s" target="_blank">Premium Version</a> to get this option.', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?> -->
-				<span class="description"><?php esc_html_e('Select bacground image size for mobile.', 'hero-banner-ultimate'); ?></span><?php echo sprintf( __( 'Try This <a href="%s" target="_blank">PRO Features in Essential Bundle Free For 5 Days.</a>', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?>
+				<span class="description"><?php esc_html_e('Select bacground image size for mobile.', 'hero-banner-ultimate'); ?></span> <strong><?php echo sprintf( __( 'Try This PRO Features with <a href="%s" target="_blank">Early Back Friday Deals</a> on lifetime plan. FLAT $100 USD OFF.', 'hero-banner-ultimate'), HBU_PLUGIN_LINK_UNLOCK); ?></strong>
 			</td>
 		</tr>
 

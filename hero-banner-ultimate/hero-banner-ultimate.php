@@ -5,14 +5,14 @@
  * Text Domain: hero-banner-ultimate
  * Description: Add hero banner with the help of background image OR background color OR background video. Also work with Gutenberg shortcode block. 
  * Domain Path: /languages/
- * Version: 1.4.1
+ * Version: 1.4.2
  * Author: WP OnlineSupport, Essential Plugin
  * Author URI: https://www.essentialplugin.com/wordpress-plugin/hero-banner-ultimate/
  * Contributors: WP OnlineSupport
 */
 
 if( ! defined( 'HBU_VERSION' ) ) {
-	define( 'HBU_VERSION', '1.4.1' ); // Version of plugin
+	define( 'HBU_VERSION', '1.4.2' ); // Version of plugin
 }
 
 if( ! defined( 'HBU_DIR' ) ) {
@@ -32,11 +32,11 @@ if( ! defined( 'HBU_META_PREFIX' ) ) {
 }
 
 if( ! defined( 'HBU_PLUGIN_LINK_UNLOCK' ) ) {
-	define('HBU_PLUGIN_LINK_UNLOCK', 'https://www.wponlinesupport.com/checkout/?edd_action=add_to_cart&download_id=14791&edd_options[price_id]=7&wpos_cart_flush=1&utm_source=WP&utm_medium=Hero-Banner&utm_campaign=Features-PRO'); // Plugin link
+	define('HBU_PLUGIN_LINK_UNLOCK', 'https://www.essentialplugin.com/pricing/?	utm_source=WP&utm_medium=Hero-Banner&utm_campaign=Features-PRO'); // Plugin link
 }
 
 if( ! defined( 'HBU_PLUGIN_LINK_UPGRADE' ) ) {
-	define('HBU_PLUGIN_LINK_UPGRADE', 'https://www.wponlinesupport.com/checkout/?edd_action=add_to_cart&download_id=14791&edd_options[price_id]=7&wpos_cart_flush=1&utm_source=WP&utm_medium=Hero-Banner&utm_campaign=Upgrade-PRO'); // Plugin link
+	define('HBU_PLUGIN_LINK_UPGRADE', 'https://www.essentialplugin.com/pricing/?	utm_source=WP&utm_medium=Hero-Banner&utm_campaign=Upgrade-PRO'); // Plugin link
 }
 
 /**

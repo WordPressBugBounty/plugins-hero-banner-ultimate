@@ -43,7 +43,7 @@ class Hbu_Admin {
 	function hbu_register_menu() {
 
 		// Register plugin premium page
-		add_submenu_page( 'edit.php?post_type='.HBU_POST_TYPE, __('Upgrade to PRO - Hero Banner Ultimate', 'hero-banner-ultimate'), '<span style="color:#ff2700">'.__('Upgrade to PRO', 'hero-banner-ultimate').'</span>', 'manage_options', 'hbu-premium', array($this, 'hbu_premium_page') );
+		add_submenu_page( 'edit.php?post_type='.HBU_POST_TYPE, __('Upgrade to PRO - Hero Banner Ultimate', 'hero-banner-ultimate'), '<span style="color:#ff2700">'.__('Upgrade To PRO – Early Back Friday Deals', 'hero-banner-ultimate').'</span>', 'manage_options', 'hbu-premium', array($this, 'hbu_premium_page') );
 	}
 
 	/**

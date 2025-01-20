@@ -5,14 +5,14 @@
  * Text Domain: hero-banner-ultimate
  * Description: Add hero banner with the help of background image OR background color OR background video. Also work with Gutenberg shortcode block. 
  * Domain Path: /languages/
- * Version: 1.4.2
+ * Version: 1.4.3
  * Author: WP OnlineSupport, Essential Plugin
  * Author URI: https://www.essentialplugin.com/wordpress-plugin/hero-banner-ultimate/
  * Contributors: WP OnlineSupport
 */
 
 if( ! defined( 'HBU_VERSION' ) ) {
-	define( 'HBU_VERSION', '1.4.2' ); // Version of plugin
+	define( 'HBU_VERSION', '1.4.3' ); // Version of plugin
 }
 
 if( ! defined( 'HBU_DIR' ) ) {

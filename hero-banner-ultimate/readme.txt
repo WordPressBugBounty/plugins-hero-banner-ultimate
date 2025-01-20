@@ -2,8 +2,8 @@
 Tags: hero banner image, hero video background, hero header video, youtube video background, vimeo video background
 Contributors: wponlinesupport, anoopranawat, pratik-jain, patelketan
 Requires at least: 4.0
-Tested up to: 6.6.2
-Stable tag: 1.4.2
+Tested up to: 6.7.1
+Stable tag: 1.4.3
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -58,6 +58,9 @@ Large fullscreen backgrounds and hero banners can be used in single page designs
 2. Activate the "hero-banner-ultimate" list plugin through the 'Plugins' menu in WordPress.
 
 == Changelog ==
+
+= 1.4.3 (20, January 2025) =
+* [*] Check compatibility to WordPress version 6.7.1
 
 = 1.4.2 (08, Nov 2024) =
 * [*] Check compatibility to WordPress version 6.6.2

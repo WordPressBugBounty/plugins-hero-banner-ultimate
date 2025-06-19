@@ -1,9 +1,9 @@
 === Hero Banner Ultimate ===
 Tags: hero banner image, hero video background, hero header video, youtube video background, vimeo video background
-Contributors: essentialplugin
+Contributors: essentialplugin, aminshoukat
 Requires at least: 4.0
 Tested up to: 6.8.1
-Stable tag: 1.4.4
+Stable tag: 1.4.6
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -11,9 +11,9 @@ Add hero banner with the help of background image OR background color OR backgro
 
 == Description ==
 
-[Explore Hero Banner Features](https://demo.essentialplugin.com/hero-banner-ultimate-demo/?utm_source=WP&utm_medium=Hero_Banner&utm_campaign=Read-Me) | [Annual or Lifetime Bundle Deal](https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=Hero_Banner&utm_campaign=Read-Me)
+[Explore Hero Banner Features](https://demo.essentialplugin.com/hero-banner-ultimate-demo/?utm_source=WP&utm_medium=Hero_Banner&utm_campaign=Read-Me) | [Annual or Lifetime Bundle Deal](https://essentialplugin.com/pricing/?utm_source=WP&utm_medium=Hero_Banner&utm_campaign=Read-Me)
 
-Add [hero banner](https://www.essentialplugin.com/wordpress-plugin/hero-banner-ultimate/?utm_source=WP&utm_medium=Hero_Banner&utm_campaign=Read-Me) with the help of background image OR background color OR background video. Hero Banner Ultimate comes with 4 types of layouts where you can manage you hero banner design.
+Add [hero banner](https://essentialplugin.com/wordpress-plugin/hero-banner-ultimate/?utm_source=WP&utm_medium=Hero_Banner&utm_campaign=Read-Me) with the help of background image OR background color OR background video. Hero Banner Ultimate comes with 4 types of layouts where you can manage you hero banner design.
 
 Also work with Gutenberg shortcode block. 
 
@@ -57,7 +57,17 @@ Large fullscreen backgrounds and hero banners can be used in single page designs
 1. Upload the 'hero-banner-ultimate' folder to the '/wp-content/plugins/' directory.
 2. Activate the "hero-banner-ultimate" list plugin through the 'Plugins' menu in WordPress.
 
+## Security
+
+We take security seriously. If you discover a security vulnerability, please send an email to support@essentialplugin.com. All security vulnerabilities will be promptly addressed.
+
 == Changelog ==
+
+= 1.4.6 (19, Jun 2025) =
+* [*] Added - GNU License file
+
+= 1.4.5 (19, Jun 2025) =
+* [*] Fix - Secure file inclusion with validation
 
 = 1.4.4 (15, May 2025) =
 * [*] Check compatibility with WordPress version 6.8.1
